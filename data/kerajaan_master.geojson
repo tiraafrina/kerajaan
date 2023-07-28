@@ -1,0 +1,3897 @@
+{
+    "type": "FeatureCollection",
+    "name": "kerajaan_master",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Dewawarman I",
+                "id_raja": "SL1",
+                "th_start": -58064774400,
+                "th_end": 168,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Dewawarman II",
+                "id_raja": "SL2",
+                "th_start": -56865628800,
+                "th_end": 195,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Dewawarman III",
+                "id_raja": "SL3",
+                "th_start": -56013552000,
+                "th_end": 238,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Dewawarman IV",
+                "id_raja": "SL4",
+                "th_start": -54656640000,
+                "th_end": 252,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Dewawarman V",
+                "id_raja": "SL5",
+                "th_start": -54214876800,
+                "th_end": 276,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Mahisa Suramardini Warmandewi ",
+                "id_raja": "SL6",
+                "th_start": -53457494400,
+                "th_end": 289,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Dewawarman VI",
+                "id_raja": "SL7",
+                "th_start": -53047180800,
+                "th_end": 308,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Dewawarman VII ",
+                "id_raja": "SL8",
+                "th_start": -52447737600,
+                "th_end": 340,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Sphatikarnawa Warmandewi",
+                "id_raja": "SL9",
+                "th_start": -51437894400,
+                "th_end": 348,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Dewawarman VIII",
+                "id_raja": "SL10",
+                "th_start": -51185433600,
+                "th_end": 362,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Salakanegara",
+                "id_kerajaan": "SL",
+                "raja": "Dewawarman IX ",
+                "id_raja": "SL11",
+                "th_start": -50743584000,
+                "th_end": 362,
+                "x": -6.280036,
+                "y": 106.858015
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858015,
+                    -6.280036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Sanjaya",
+                "id_raja": "MK1",
+                "th_start": -39067574400,
+                "th_end": 760,
+                "x": -7.719786,
+                "y": 110.369433
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.369433,
+                    -7.719786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Panangkaran",
+                "id_raja": "MK2",
+                "th_start": -38183961600,
+                "th_end": 780,
+                "x": -7.719786,
+                "y": 110.369433
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.369433,
+                    -7.719786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Panunggalan",
+                "id_raja": "MK3",
+                "th_start": 780,
+                "th_end": 800,
+                "x": -7.719786,
+                "y": 110.369433
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.369433,
+                    -7.719786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Samaragrawira",
+                "id_raja": "MK4",
+                "th_start": 800,
+                "th_end": 820,
+                "x": -7.719786,
+                "y": 110.369433
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.369433,
+                    -7.719786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Samaratungga",
+                "id_raja": "MK5",
+                "th_start": 820,
+                "th_end": 840,
+                "x": -7.719786,
+                "y": 110.369433
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.369433,
+                    -7.719786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Pramodawardhani",
+                "id_raja": "MK6",
+                "th_start": 840,
+                "th_end": 856,
+                "x": -7.2377,
+                "y": 110.186074
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.186074,
+                    -7.2377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Kayuwani",
+                "id_raja": "MK7",
+                "th_start": 856,
+                "th_end": 882,
+                "x": -7.2377,
+                "y": 110.186074
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.186074,
+                    -7.2377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Watuhumalang",
+                "id_raja": "MK8",
+                "th_start": 882,
+                "th_end": 899,
+                "x": -7.2377,
+                "y": 110.186074
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.186074,
+                    -7.2377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Watukura Dyah Balitung",
+                "id_raja": "MK9",
+                "th_start": 899,
+                "th_end": 915,
+                "x": -7.464815,
+                "y": 110.219259
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.219259,
+                    -7.464815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Mpu Daksa",
+                "id_raja": "MK10",
+                "th_start": 915,
+                "th_end": 919,
+                "x": -7.464815,
+                "y": 110.219259
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.219259,
+                    -7.464815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Layang Dyah Tulodong",
+                "id_raja": "MK11",
+                "th_start": 919,
+                "th_end": 924,
+                "x": -7.464815,
+                "y": 110.219259
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.219259,
+                    -7.464815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Sumba Dyah Wawa",
+                "id_raja": "MK12",
+                "th_start": 924,
+                "th_end": 929,
+                "x": -7.464815,
+                "y": 110.219259
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.219259,
+                    -7.464815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Mpu Sindok",
+                "id_raja": "MK13",
+                "th_start": 929,
+                "th_end": 947,
+                "x": -7.464815,
+                "y": 110.219259
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.219259,
+                    -7.464815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Sri Lokapala",
+                "id_raja": "MK14",
+                "th_start": 947,
+                "th_end": 960,
+                "x": -7.464815,
+                "y": 110.219259
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.219259,
+                    -7.464815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Makutawangsawardhan",
+                "id_raja": "MK15",
+                "th_start": 960,
+                "th_end": 985,
+                "x": -7.464815,
+                "y": 110.219259
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.219259,
+                    -7.464815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Mataram Kuno",
+                "id_kerajaan": "MK",
+                "raja": "Dharmawangsa Teguh",
+                "id_raja": "MK16",
+                "th_start": 985,
+                "th_end": 1007,
+                "x": -7.630686,
+                "y": 111.518164
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.518164,
+                    -7.630686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Jayasingawarman",
+                "id_raja": "TR1",
+                "th_start": 358,
+                "th_end": 382,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Dharmayawarman",
+                "id_raja": "TR2",
+                "th_start": 382,
+                "th_end": 395,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Purnawarman",
+                "id_raja": "TR3",
+                "th_start": 395,
+                "th_end": 434,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Wisnuwarman",
+                "id_raja": "TR4",
+                "th_start": 434,
+                "th_end": 455,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Indrawarman",
+                "id_raja": "TR5",
+                "th_start": 455,
+                "th_end": 515,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Candrawarman",
+                "id_raja": "TR6",
+                "th_start": 515,
+                "th_end": 535,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Suryawarman",
+                "id_raja": "TR7",
+                "th_start": 535,
+                "th_end": 561,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Kertawarman",
+                "id_raja": "TR8",
+                "th_start": 561,
+                "th_end": 628,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Sudhawarman",
+                "id_raja": "TR9",
+                "th_start": 628,
+                "th_end": 639,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Hariwangsawarman",
+                "id_raja": "TR10",
+                "th_start": 639,
+                "th_end": 640,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Nagajayawarman",
+                "id_raja": "TR11",
+                "th_start": 640,
+                "th_end": 666,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Tarumanegara",
+                "id_kerajaan": "TR",
+                "raja": "Linggawarman",
+                "id_raja": "TR12",
+                "th_start": 666,
+                "th_end": 669,
+                "x": -6.244039,
+                "y": 107.26542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.26542,
+                    -6.244039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Kudungga",
+                "id_raja": "KT1",
+                "th_start": 350,
+                "th_end": 375,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Asmawarman",
+                "id_raja": "KT2",
+                "th_start": 375,
+                "th_end": 400,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Mulawarman",
+                "id_raja": "KT3",
+                "th_start": 400,
+                "th_end": 446,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Wangsa Warman",
+                "id_raja": "KT4",
+                "th_start": 446,
+                "th_end": 495,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Maha Wijaya Warman",
+                "id_raja": "KT5",
+                "th_start": 495,
+                "th_end": 543,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Gajayana Warman",
+                "id_raja": "KT6",
+                "th_start": 543,
+                "th_end": 590,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Wijaya Tungga Warman",
+                "id_raja": "KT7",
+                "th_start": 590,
+                "th_end": 637,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Jaya Tungga Nagawarman",
+                "id_raja": "KT8",
+                "th_start": 637,
+                "th_end": 686,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Nala Singawarman",
+                "id_raja": "KT9",
+                "th_start": 686,
+                "th_end": 736,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Nala Parana Tungga Warman",
+                "id_raja": "KT10",
+                "th_start": 736,
+                "th_end": 783,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Gadingga Warmandewa",
+                "id_raja": "KT11",
+                "th_start": 783,
+                "th_end": 832,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Indra Warmandewa",
+                "id_raja": "KT12",
+                "th_start": 832,
+                "th_end": 879,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Singa Wirama Warmandewa",
+                "id_raja": "KT13",
+                "th_start": 879,
+                "th_end": 926,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Singa Wargala Warmandewa",
+                "id_raja": "KT14",
+                "th_start": 926,
+                "th_end": 972,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Candrawarman",
+                "id_raja": "KT15",
+                "th_start": 972,
+                "th_end": 1020,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Prabu Mula Tunggaldewa",
+                "id_raja": "KT16",
+                "th_start": 1020,
+                "th_end": 1069,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Nala Indradewa",
+                "id_raja": "KT17",
+                "th_start": 1069,
+                "th_end": 1117,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Maharatu Mayang Mulawarni",
+                "id_raja": "KT18",
+                "th_start": 1117,
+                "th_end": 1166,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Indra Mulia Tungga Warmandewa",
+                "id_raja": "KT19",
+                "th_start": 1166,
+                "th_end": 1214,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Sri Langkadewa",
+                "id_raja": "KT20",
+                "th_start": 1214,
+                "th_end": 1265,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Guna Perana Tungga",
+                "id_raja": "KT21",
+                "th_start": 1265,
+                "th_end": 1325,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Nala Duta",
+                "id_raja": "KT22",
+                "th_start": 1325,
+                "th_end": 1337,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Wijaya Warman",
+                "id_raja": "KT23",
+                "th_start": 1337,
+                "th_end": 1373,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Indra Mulia",
+                "id_raja": "KT24",
+                "th_start": 1373,
+                "th_end": 1407,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Sri Aji Dewawarman",
+                "id_raja": "KT25",
+                "th_start": 1407,
+                "th_end": 1425,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Mulia Putera",
+                "id_raja": "KT26",
+                "th_start": 1425,
+                "th_end": 1453,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Nala Praritha",
+                "id_raja": "KT27",
+                "th_start": 1453,
+                "th_end": 1509,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Indra Paruta",
+                "id_raja": "KT28",
+                "th_start": 1509,
+                "th_end": 1534,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kutai",
+                "id_kerajaan": "KT",
+                "raja": "Dermasatiya",
+                "id_raja": "KT29",
+                "th_start": 1534,
+                "th_end": 1605,
+                "x": -0.350392,
+                "y": 116.76834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.76834,
+                    -0.350392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kediri",
+                "id_kerajaan": "KD",
+                "raja": "Samarawijaya",
+                "id_raja": "KD1",
+                "th_start": 1042,
+                "th_end": 1117,
+                "x": -7.826694,
+                "y": 112.010905
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.010905,
+                    -7.826694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kediri",
+                "id_kerajaan": "KD",
+                "raja": "Bameswara",
+                "id_raja": "KD2",
+                "th_start": 1117,
+                "th_end": 1135,
+                "x": -7.826694,
+                "y": 112.010905
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.010905,
+                    -7.826694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kediri",
+                "id_kerajaan": "KD",
+                "raja": "Jayabaya",
+                "id_raja": "KD3",
+                "th_start": 1135,
+                "th_end": 1159,
+                "x": -7.826694,
+                "y": 112.010905
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.010905,
+                    -7.826694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kediri",
+                "id_kerajaan": "KD",
+                "raja": "Sarweswara",
+                "id_raja": "KD4",
+                "th_start": 1159,
+                "th_end": 1169,
+                "x": -7.826694,
+                "y": 112.010905
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.010905,
+                    -7.826694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kediri",
+                "id_kerajaan": "KD",
+                "raja": "Aryyeswara",
+                "id_raja": "KD5",
+                "th_start": 1169,
+                "th_end": 1181,
+                "x": -7.826694,
+                "y": 112.010905
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.010905,
+                    -7.826694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kediri",
+                "id_kerajaan": "KD",
+                "raja": "Gandra",
+                "id_raja": "KD6",
+                "th_start": 1181,
+                "th_end": 1184,
+                "x": -7.826694,
+                "y": 112.010905
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.010905,
+                    -7.826694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kediri",
+                "id_kerajaan": "KD",
+                "raja": "Kameswara",
+                "id_raja": "KD7",
+                "th_start": 1184,
+                "th_end": 1194,
+                "x": -7.826694,
+                "y": 112.010905
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.010905,
+                    -7.826694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kediri",
+                "id_kerajaan": "KD",
+                "raja": "Kertajaya",
+                "id_raja": "KD8",
+                "th_start": 1194,
+                "th_end": 1222,
+                "x": -7.826694,
+                "y": 112.010905
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.010905,
+                    -7.826694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kalingga",
+                "id_kerajaan": "KL",
+                "raja": "Wasumurti",
+                "id_raja": "KL1",
+                "th_start": 594,
+                "th_end": 605,
+                "x": -6.915185,
+                "y": 109.702807
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.702807,
+                    -6.915185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kalingga",
+                "id_kerajaan": "KL",
+                "raja": "Wasugeni",
+                "id_raja": "KL2",
+                "th_start": 605,
+                "th_end": 632,
+                "x": -6.915185,
+                "y": 109.702807
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.702807,
+                    -6.915185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kalingga",
+                "id_kerajaan": "KL",
+                "raja": "Wasudewa",
+                "id_raja": "KL3",
+                "th_start": 632,
+                "th_end": 652,
+                "x": -6.915185,
+                "y": 109.702807
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.702807,
+                    -6.915185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kalingga",
+                "id_kerajaan": "KL",
+                "raja": "Kirathasingha",
+                "id_raja": "KL4",
+                "th_start": 632,
+                "th_end": 648,
+                "x": -6.915185,
+                "y": 109.702807
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.702807,
+                    -6.915185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kalingga",
+                "id_kerajaan": "KL",
+                "raja": "Wasukawi",
+                "id_raja": "KL5",
+                "th_start": 648,
+                "th_end": 652,
+                "x": -6.915185,
+                "y": 109.702807
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.702807,
+                    -6.915185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kalingga",
+                "id_kerajaan": "KL",
+                "raja": "Kartikeyasingha",
+                "id_raja": "KL6",
+                "th_start": 648,
+                "th_end": 674,
+                "x": -6.702889,
+                "y": 110.665791
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.665791,
+                    -6.702889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Kalingga",
+                "id_kerajaan": "KL",
+                "raja": "Ratu Shima",
+                "id_raja": "KL7",
+                "th_start": 674,
+                "th_end": 695,
+                "x": -6.702889,
+                "y": 110.665791
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.665791,
+                    -6.702889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Wretikandayun",
+                "id_raja": "GL1",
+                "th_start": 612,
+                "th_end": 702,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Prabu Suraghana ",
+                "id_raja": "GL2",
+                "th_start": 702,
+                "th_end": 709,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Sannaha ",
+                "id_raja": "GL3",
+                "th_start": 709,
+                "th_end": 716,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Purbasora ",
+                "id_raja": "GL4",
+                "th_start": 716,
+                "th_end": 723,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Sanjaya Harisdarma ",
+                "id_raja": "GL5",
+                "th_start": 723,
+                "th_end": 724,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Adimulya Premana Dikusuma",
+                "id_raja": "GL6",
+                "th_start": 724,
+                "th_end": 725,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Tamperan Barmawijaya ",
+                "id_raja": "GL7",
+                "th_start": 725,
+                "th_end": 739,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Manarah",
+                "id_raja": "GL8",
+                "th_start": 739,
+                "th_end": 783,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Guruminda Sang Minisri",
+                "id_raja": "GL9",
+                "th_start": 783,
+                "th_end": 799,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Prabhu Kretayasa Dewakusalesywara",
+                "id_raja": "GL10",
+                "th_start": 799,
+                "th_end": 806,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Sang Walengan",
+                "id_raja": "GL11",
+                "th_start": 806,
+                "th_end": 813,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Prabu Linggabumi",
+                "id_raja": "GL12",
+                "th_start": 813,
+                "th_end": 852,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh",
+                "id_kerajaan": "GL",
+                "raja": "Prabu Gajah Kulon Rakeyan Wuwus",
+                "id_raja": "GL13",
+                "th_start": 852,
+                "th_end": 891,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Maharaja Tarusbawa",
+                "id_raja": "SN1",
+                "th_start": 669,
+                "th_end": 723,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Sanjaya Harisdarma",
+                "id_raja": "SN2",
+                "th_start": 723,
+                "th_end": 732,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Tamperan Barmawijaya",
+                "id_raja": "SN3",
+                "th_start": 732,
+                "th_end": 739,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Rakeyan Banga",
+                "id_raja": "SN4",
+                "th_start": 739,
+                "th_end": 766,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Rakeyan Medang Prabu Hulukujang",
+                "id_raja": "SN5",
+                "th_start": 766,
+                "th_end": 783,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Gilingwesi",
+                "id_raja": "SN6",
+                "th_start": 783,
+                "th_end": 795,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Pucukbumi Darmeswara",
+                "id_raja": "SN7",
+                "th_start": 795,
+                "th_end": 819,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Gajah Kulon Rakeyan Wuwus",
+                "id_raja": "SN8",
+                "th_start": 819,
+                "th_end": 891,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Darmaraksa",
+                "id_raja": "SN9",
+                "th_start": 891,
+                "th_end": 895,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Windusakti Prabu Dewageng",
+                "id_raja": "SN10",
+                "th_start": 895,
+                "th_end": 913,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Pucukwesi",
+                "id_raja": "SN11",
+                "th_start": 913,
+                "th_end": 916,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Wanayasa",
+                "id_raja": "SN12",
+                "th_start": 916,
+                "th_end": 942,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Resi Atmayadarma Hariwangsa",
+                "id_raja": "SN13",
+                "th_start": 942,
+                "th_end": 954,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Limbur Kancana",
+                "id_raja": "SN14",
+                "th_start": 954,
+                "th_end": 964,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Munding Ganawirya",
+                "id_raja": "SN15",
+                "th_start": 964,
+                "th_end": 973,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Jayagiri",
+                "id_raja": "SN16",
+                "th_start": 973,
+                "th_end": 989,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Brajawisesa",
+                "id_raja": "SN17",
+                "th_start": 989,
+                "th_end": 1012,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Dewa Sanghyang",
+                "id_raja": "SN18",
+                "th_start": 1012,
+                "th_end": 1019,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sunda",
+                "id_kerajaan": "SN",
+                "raja": "Prabu Sanghyang Ageng",
+                "id_raja": "SN19",
+                "th_start": 1019,
+                "th_end": 1030,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Detya Maharaja Sri Jayabupati",
+                "id_raja": "GP1",
+                "th_start": 1030,
+                "th_end": 1042,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Darmaraja",
+                "id_raja": "GP2",
+                "th_start": 1042,
+                "th_end": 1065,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Langlangbumi",
+                "id_raja": "GP3",
+                "th_start": 1065,
+                "th_end": 1155,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Ménakluhur",
+                "id_raja": "GP4",
+                "th_start": 1155,
+                "th_end": 1157,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Darmakusuma",
+                "id_raja": "GP5",
+                "th_start": 1157,
+                "th_end": 1175,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Darmasiksa Prabu Sanghyang Wisnu",
+                "id_raja": "GP6",
+                "th_start": 1175,
+                "th_end": 1297,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Ragasuci",
+                "id_raja": "GP7",
+                "th_start": 1297,
+                "th_end": 1303,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Citraganda",
+                "id_raja": "GP8",
+                "th_start": 1303,
+                "th_end": 1311,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Linggadéwata",
+                "id_raja": "GP9",
+                "th_start": 1311,
+                "th_end": 1333,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Ajiguna Linggawisésa",
+                "id_raja": "GP10",
+                "th_start": 1333,
+                "th_end": 1340,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Ragamulya Luhurprabawa",
+                "id_raja": "GP11",
+                "th_start": 1340,
+                "th_end": 1350,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Maharaja Linggabuanawisésa",
+                "id_raja": "GP12",
+                "th_start": 1350,
+                "th_end": 1357,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Bunisora",
+                "id_raja": "GP13",
+                "th_start": 1357,
+                "th_end": 1371,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Niskala Wastu Kancana",
+                "id_raja": "GP14",
+                "th_start": 1371,
+                "th_end": 1475,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Susuktunggal",
+                "id_raja": "GP15",
+                "th_start": 1475,
+                "th_end": 1482,
+                "x": -6.597748,
+                "y": 106.801912
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.801912,
+                    -6.597748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Galuh Pakuan",
+                "id_kerajaan": "GP",
+                "raja": "Prabu Dewa Niskala",
+                "id_raja": "GP16",
+                "th_start": 1475,
+                "th_end": 1482,
+                "x": -7.188609,
+                "y": 108.368979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.368979,
+                    -7.188609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Dapunta Hyang Sri Jayanasa ",
+                "id_raja": "SR1",
+                "th_start": 683,
+                "th_end": 702,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Indrawarman",
+                "id_raja": "SR2",
+                "th_start": 702,
+                "th_end": 728,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Rudra Wikrama",
+                "id_raja": "SR3",
+                "th_start": 728,
+                "th_end": 775,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Sangramadhananjaya ",
+                "id_raja": "SR4",
+                "th_start": 775,
+                "th_end": 778,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Dharanindra",
+                "id_raja": "SR5",
+                "th_start": 778,
+                "th_end": 782,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Samaragrawira",
+                "id_raja": "SR6",
+                "th_start": 782,
+                "th_end": 790,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Dharmasetu",
+                "id_raja": "SR7",
+                "th_start": 790,
+                "th_end": 792,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Samaratungga",
+                "id_raja": "SR8",
+                "th_start": 792,
+                "th_end": 856,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Balaputradewa ",
+                "id_raja": "SR9",
+                "th_start": 856,
+                "th_end": 960,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Sri Udayadityawarman ",
+                "id_raja": "SR10",
+                "th_start": 960,
+                "th_end": 961,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Sri Wuja atau Sri Udayadityan ",
+                "id_raja": "SR11",
+                "th_start": 961,
+                "th_end": 980,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Hsiae-she ",
+                "id_raja": "SR12",
+                "th_start": 980,
+                "th_end": 988,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Sri Cudamaniwarmadewa ",
+                "id_raja": "SR13",
+                "th_start": 988,
+                "th_end": 980,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Malayagiri",
+                "id_raja": "SR14",
+                "th_start": 980,
+                "th_end": 1008,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Sri Marawijayottunggawarman ",
+                "id_raja": "SR15",
+                "th_start": 1008,
+                "th_end": 1017,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Sumatrabhumi ",
+                "id_raja": "SR16",
+                "th_start": 1017,
+                "th_end": 1025,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Sri Sanggrama Wijayatunggawarman",
+                "id_raja": "SR17",
+                "th_start": 1025,
+                "th_end": 1028,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Sri Dewa",
+                "id_raja": "SR18",
+                "th_start": 1028,
+                "th_end": 1064,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Dharmawira",
+                "id_raja": "SR19",
+                "th_start": 1064,
+                "th_end": 1156,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Sri Maharaja",
+                "id_raja": "SR20",
+                "th_start": 1156,
+                "th_end": 1178,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Sriwijaya",
+                "id_kerajaan": "SR",
+                "raja": "Trailokyaraja Maulibhusana Warmadewa",
+                "id_raja": "SR21",
+                "th_start": 1178,
+                "th_end": 1400,
+                "x": -3.015096,
+                "y": 104.734536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.734536,
+                    -3.015096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Dharmasraya",
+                "id_kerajaan": "DR",
+                "raja": "Maharaja Srimat Trailokyaraja Maulibhusana Warmadewa",
+                "id_raja": "DR1",
+                "th_start": 1183,
+                "th_end": 1286,
+                "x": -0.954334,
+                "y": 101.508297
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.508297,
+                    -0.954334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Dharmasraya",
+                "id_kerajaan": "DR",
+                "raja": "Srimat Tribhuwanaraja Mauli Warmadewa",
+                "id_raja": "DR2",
+                "th_start": 1286,
+                "th_end": 1316,
+                "x": -0.954334,
+                "y": 101.508297
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.508297,
+                    -0.954334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Dharmasraya",
+                "id_kerajaan": "DR",
+                "raja": "Srimat Sri Akarendrawarman",
+                "id_raja": "DR3",
+                "th_start": 1316,
+                "th_end": 1347,
+                "x": -0.954334,
+                "y": 101.508297
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.508297,
+                    -0.954334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Dharmasraya",
+                "id_kerajaan": "DR",
+                "raja": "Srimat Sri Udayadityawarman Pratapaparakrama Rajendra Maulimali Warmadewa (Adityawarman)",
+                "id_raja": "DR4",
+                "th_start": 1347,
+                "th_end": 1365,
+                "x": -0.954334,
+                "y": 101.508297
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.508297,
+                    -0.954334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Sri Kesari Warmadewa",
+                "id_raja": "BD1",
+                "th_start": 914,
+                "th_end": 915,
+                "x": -8.523247,
+                "y": 115.287514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.287514,
+                    -8.523247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Sri Ugrasena",
+                "id_raja": "BD2",
+                "th_start": 915,
+                "th_end": 955,
+                "x": -8.523247,
+                "y": 115.287514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.287514,
+                    -8.523247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Tabenendra Warmadewa",
+                "id_raja": "BD3",
+                "th_start": 955,
+                "th_end": 960,
+                "x": -8.523247,
+                "y": 115.287514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.287514,
+                    -8.523247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Jayasingha Warmadewa",
+                "id_raja": "BD4",
+                "th_start": 960,
+                "th_end": 975,
+                "x": -8.523247,
+                "y": 115.287514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.287514,
+                    -8.523247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Jayasadhu Warmadewa",
+                "id_raja": "BD5",
+                "th_start": 975,
+                "th_end": 1001,
+                "x": -8.523247,
+                "y": 115.287514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.287514,
+                    -8.523247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Dharma Udayana Warmadewa",
+                "id_raja": "BD6",
+                "th_start": 1001,
+                "th_end": 1016,
+                "x": -8.523247,
+                "y": 115.287514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.287514,
+                    -8.523247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Dharmawangsa Wardhana Marakatapangkaja",
+                "id_raja": "BD7",
+                "th_start": 1016,
+                "th_end": 1025,
+                "x": -8.523247,
+                "y": 115.287514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.287514,
+                    -8.523247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Anak Wungsu",
+                "id_raja": "BD8",
+                "th_start": 1025,
+                "th_end": 1179,
+                "x": -8.539694,
+                "y": 115.340389
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.340389,
+                    -8.539694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Śri Maharaja Walaprabhu",
+                "id_raja": "BD9",
+                "th_start": 1179,
+                "th_end": 1088,
+                "x": -8.539694,
+                "y": 115.340389
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.340389,
+                    -8.539694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Śri Maharaja Sakalendukirana Laksmidhara Wijayottunggadewi",
+                "id_raja": "BD10",
+                "th_start": 1088,
+                "th_end": 1101,
+                "x": -8.539694,
+                "y": 115.340389
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.340389,
+                    -8.539694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Śri Maharaja Sri Suradhipa",
+                "id_raja": "BD11",
+                "th_start": 1101,
+                "th_end": 1324,
+                "x": -8.539694,
+                "y": 115.340389
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.340389,
+                    -8.539694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Bali Dwipa",
+                "id_kerajaan": "BD",
+                "raja": "Sri Bhatara Mahaguru Dharmottungga Warmadewa",
+                "id_raja": "BD12",
+                "th_start": 1324,
+                "th_end": 1325,
+                "x": -8.539694,
+                "y": 115.340389
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.340389,
+                    -8.539694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Raden Wijaya",
+                "id_raja": "MJ1",
+                "th_start": 1293,
+                "th_end": 1309,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Kalagemet atau Sri Jayanegara",
+                "id_raja": "MJ2",
+                "th_start": 1309,
+                "th_end": 1328,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Sri Gitarja",
+                "id_raja": "MJ3",
+                "th_start": 1328,
+                "th_end": 1350,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Hayam Wuruk",
+                "id_raja": "MJ4",
+                "th_start": 1350,
+                "th_end": 1389,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Wikramawardhana",
+                "id_raja": "MJ5",
+                "th_start": 1389,
+                "th_end": 1429,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Prabu Sri Suhita",
+                "id_raja": "MJ6",
+                "th_start": 1429,
+                "th_end": 1447,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Sri Maharaja Wijayaparakramawardhana",
+                "id_raja": "MJ7",
+                "th_start": 1447,
+                "th_end": 1451,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Rajasawardhana Sang Sinagara",
+                "id_raja": "MJ8",
+                "th_start": 1451,
+                "th_end": 1456,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Girishawardhana",
+                "id_raja": "MJ9",
+                "th_start": 1456,
+                "th_end": 1466,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Sri Adi Suraprabhawa Singhawikramawardhana Giripati Pasutabhupati Ketubhuta",
+                "id_raja": "MJ10",
+                "th_start": 1466,
+                "th_end": 1468,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Bhre Kertabhumi",
+                "id_raja": "MJ11",
+                "th_start": 1468,
+                "th_end": 1474,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Majapahit",
+                "id_kerajaan": "MJ",
+                "raja": "Prabhu Natha Sri Girindrawardhana",
+                "id_raja": "MJ12",
+                "th_start": 1474,
+                "th_end": 1498,
+                "x": -7.560114,
+                "y": 112.380677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.380677,
+                    -7.560114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Singasari",
+                "id_kerajaan": "SG",
+                "raja": "Ken Arok",
+                "id_raja": "SG1",
+                "th_start": 1222,
+                "th_end": 1227,
+                "x": -7.891852,
+                "y": 112.667125
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.667125,
+                    -7.891852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Singasari",
+                "id_kerajaan": "SG",
+                "raja": "Anusapati",
+                "id_raja": "SG2",
+                "th_start": 1227,
+                "th_end": 1248,
+                "x": -7.891852,
+                "y": 112.667125
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.667125,
+                    -7.891852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Singasari",
+                "id_kerajaan": "SG",
+                "raja": "Tohjoyo",
+                "id_raja": "SG3",
+                "th_start": 1248,
+                "th_end": 1245,
+                "x": -7.891852,
+                "y": 112.667125
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.667125,
+                    -7.891852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Singasari",
+                "id_kerajaan": "SG",
+                "raja": "Ranggawuni",
+                "id_raja": "SG4",
+                "th_start": 1245,
+                "th_end": 1268,
+                "x": -7.891852,
+                "y": 112.667125
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.667125,
+                    -7.891852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "waktu": "Hindu Budha",
+                "kerajaan": "Singasari",
+                "id_kerajaan": "SG",
+                "raja": "Kertanegara",
+                "id_raja": "SG5",
+                "th_start": 1268,
+                "th_end": 1292,
+                "x": -7.891852,
+                "y": 112.667125
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.667125,
+                    -7.891852
+                ]
+            }
+        }
+    ]
+}
