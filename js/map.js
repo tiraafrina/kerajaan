@@ -37,9 +37,32 @@ map = L.map("map", {
 });
 map.addLayer(imageryEsri);
 
+/* TITLE CONTROL HANDLERS */
+var titleCtrl = L.control({
+	position: "topleft"
+});
+titleCtrl.onAdd = function (map) {
+	var title = L.DomUtil.create('div');
+	title.innerHTML = '<div class="shadow-sm p-3 mb-5 bg-light rounded">' +
+		'<h5 class="fw-bold text-center mb-0">' +
+		'Timeline Kerajaan Kuno di Indonesia (Beta)' +
+		'</h5></div>';
+	return title;
+};
+map.addControl(titleCtrl);
+
 //Fetch some data from a GeoJSON file
 $.getJSON("data/kerajaan_master.geojson", function (json) {
-	var testlayer = L.geoJson(json),
+	var testlayer = L.geoJson(json, {
+		onEachFeature: function (feature, layer) {
+			layer.bindTooltip(feature.properties.kerajaan, {
+				permanent: true,
+				// direction: 'center',
+				className: 'labelKec',
+				maxWidth: 150
+			});
+		}
+	}),
 		sliderControl = L.control.sliderControl({
 			position: "topright",
 			layer: testlayer
@@ -50,8 +73,7 @@ $.getJSON("data/kerajaan_master.geojson", function (json) {
 		position: "topright",
 		layer: testlayer,
 		timeAttribute: "th_start",
-		isEpoch: true,
-		range: true
+		isEpoch: true
 	});
 
 	//Make sure to add the slider to the map ;-)
