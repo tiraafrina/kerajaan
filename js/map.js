@@ -39,9 +39,6 @@ map.addLayer(imageryEsri);
 
 //Fetch some data from a GeoJSON file
 $.getJSON("data/kerajaan_master.geojson", function (json) {
-	onEachFeature: function (feature, layer) {
-
-	}
 	var testlayer = L.geoJson(json),
 		sliderControl = L.control.sliderControl({
 			position: "topright",
